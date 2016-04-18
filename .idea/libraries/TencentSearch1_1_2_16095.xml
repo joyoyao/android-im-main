@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TencentSearch1.1.2.16095">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/TencentSearch1.1.2.16095.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

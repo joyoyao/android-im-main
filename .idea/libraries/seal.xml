@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kit/libs/seal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
